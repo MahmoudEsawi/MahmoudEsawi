@@ -4,7 +4,7 @@
 
 ### 🚀 Full-Stack Engineer | Robotics Hobbyist | Problem Solver
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 10 px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Passionate+about+crafting+seamless+UX;Building+robust+back-end+systems;Hardware+%2B+Software+Architect" alt="Typing SVG" />
 </div>
 
