@@ -35,10 +35,10 @@
 ### 💻 **Full-Stack Development**
 Modern web apps with cutting-edge technologies
 
-### 🤖 **Embedded Systems & Robotics**
+### 🤖 **Embedded Systems &amp; Robotics**
 Microcontroller programming, sensors, automation
 
-### 🌐 **Cloud & APIs**
+### 🌐 **Cloud &amp; APIs**
 Secure REST APIs, database design, deployment
 
 ### 🎨 **UI/UX Design**
@@ -52,7 +52,7 @@ Sleek interfaces using modern design tools
 
 <div align="center">
 
-### **Languages & Frameworks**
+### **Languages &amp; Frameworks**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -70,20 +70,20 @@ Sleek interfaces using modern design tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### **Backend & Database**
+### **Backend &amp; Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white)
 
-### **Design & Tools**
+### **Design &amp; Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-### **Hardware & IoT**
+### **Hardware &amp; IoT**
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
