@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mahmoud Esawi
+#  Hi, I'm Mahmoud Esawi
 
 ### 🚀 Full-Stack Engineer | Robotics Hobbyist | Problem Solver
 
