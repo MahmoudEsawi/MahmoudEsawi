@@ -18,8 +18,7 @@
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudEsawi&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117)
   
-![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahmoudEsawi&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;icon_color=00D9FF&amp;text_color=ffffff)
-  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudEsawi&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=ffffff)
 
 </div>
