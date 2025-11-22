@@ -68,6 +68,9 @@ Sleek interfaces using modern design tools
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&amp;logo=chart.js&amp;logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&amp;logo=three.js&amp;logoColor=white)
 
 ### **Backend &amp; Database**
 
@@ -75,12 +78,29 @@ Sleek interfaces using modern design tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&amp;logo=rest&amp;logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&amp;logo=firebase&amp;logoColor=white)
+
+### **Cloud &amp; Deployment**
+
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&amp;logo=netlify&amp;logoColor=00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&amp;logo=firebase&amp;logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
 
 ### **Design &amp; Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&amp;logo=adobe&amp;logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&amp;logo=swagger&amp;logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&amp;logo=trello&amp;logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&amp;logo=git&amp;logoColor=white)
 
 ### **Hardware &amp; IoT**
 
@@ -112,6 +132,26 @@ Sleek interfaces using modern design tools
 <div align="center">
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmoudEsawi&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00D9FF&amp;line=00D9FF&amp;point=00D9FF)](https://github.com/MahmoudEsawi)
+
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=MahmoudEsawi&amp;theme=aura&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4)
+
+</div>
+
+---
+
+## 🔝 **Top Contributed Repo**
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=MahmoudEsawi&amp;limit=5&amp;theme=aura_dark&amp;combine_all_yearly_contributions=true)
 
 </div>
 
