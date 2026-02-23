@@ -11,7 +11,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudEsawi&theme=tokyonight&hide_border=true&background=0D1117)
 
 ### 📚 **Currently Learning**
-`React` • `Node.js` • `MongoDB`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+</p>
 
 </div>
 
@@ -39,16 +41,16 @@ Sleek interfaces using modern design tools.
 <div align="center">
 
 ### **Languages & Frameworks**
-`C++` • `C#` • `.NET` • `JavaScript` • `TypeScript` • `Python`
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,js,ts,py" />
 
 ### **Frontend**
-`HTML5` • `CSS3` • `React` • `Angular` • `Bootstrap` • `Chart.js` • `Three.js`
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,bootstrap,threejs" />
 
 ### **Backend & Database**
-`MySQL` • `MongoDB` • `JWT` • `REST API` • `Flask` • `FastAPI` • `Firebase`
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,flask,fastapi,firebase" />
 
 ### **Cloud & Tools**
-`Netlify` • `Vercel` • `Azure` • `Docker` • `Git` • `Postman` • `Figma` • `Notion`
+<img src="https://skillicons.dev/icons?i=netlify,vercel,azure,docker,git,postman,figma,notion" />
 
 </div>
 
