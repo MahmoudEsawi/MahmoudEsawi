@@ -6,6 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Eat.+Sleep.+Code.+Repeat.;From+UI%2FUX+to+Database;Always+learning+new+tech;C%23+%26+.NET+Developer;React+%26+Node.js+Developer)](https://git.io/typing-svg)
 
+<br>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudEsawi&theme=tokyonight&hide_border=true&background=0D1117)
+
 </div>
 
 ---
@@ -82,15 +86,7 @@ Sleek interfaces using modern design tools.
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudEsawi&theme=tokyonight&hide_border=true&background=0D1117)
-
-<br>
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmoudEsawi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF)](https://github.com/MahmoudEsawi)
-
-<br>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=MahmoudEsawi&theme=aura&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
