@@ -2,15 +2,23 @@
 
 #  Hi, I'm Mahmoud Esawi
 
-### 🚀 Full-Stack Engineer | Problem Solver
+### 🚀 Full-Stack Engineer | Robotics Hobbyist | Problem Solver
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=25&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Eat.+Sleep.+Code.+Repeat.;From+UI%2FUX+to+Database;Always+learning+new+tech;C%23+%26+.NET+Developer;React+%26+Node.js+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Eat.+Sleep.+Code.+Repeat.;From+UI%2FUX+to+Database;Always+learning+new+tech;C%23+%26+.NET+Developer;React+%26+Node.js+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=120&amp;section=header&amp;text=Code%20%26%20Create&amp;fontSize=42&amp;fontAlignY=30&amp;animation=twinkling&amp;fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Code%20%26%20Create&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=ffffff" alt="Header" />
 </p>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudEsawi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudEsawi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MahmoudEsawi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="WakaTime Stats" />
+
+</div>
 
 </div>
 
@@ -21,13 +29,16 @@
 <div align="center">
 
 ### 💻 **Full-Stack Development**
-Modern, scalable web applications using cutting-edge technologies.
+Modern web apps with cutting-edge technologies
 
-### 🌐 **Cloud &amp; APIs**
-Secure RESTful APIs, robust database design, and automated deployment.
+### 🤖 **Embedded Systems & Robotics**
+Microcontroller programming, sensors, automation
+
+### 🌐 **Cloud & APIs**
+Secure REST APIs, database design, deployment
 
 ### 🎨 **UI/UX Design**
-Sleek interfaces using modern design tools.
+Sleek interfaces using modern design tools
 
 </div>
 
@@ -37,74 +48,82 @@ Sleek interfaces using modern design tools.
 
 <div align="center">
 
-### **Frontend Development**
+### **Languages & Frameworks**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### **Backend &amp; Database**
+### **Frontend**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&amp;logo=rest&amp;logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-### **Cloud, Deployment & Tools**
+### **Backend & Database**
 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&amp;logo=render&amp;logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&amp;logo=netlify&amp;logoColor=00C7B7)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&amp;logo=firebase&amp;logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&amp;logo=git&amp;logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=for-the-badge&logo=rest&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+
+### **Cloud & Deployment**
+
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **Design & Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+### **Hardware & IoT**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
 
 ---
 
-## 🔥 **Featured Projects**
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
-| 🎯 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
-|:---:|:---:|:---:|:---:|
-| **🎮 Tech Battle 26** | Web-based game platform for tech competitions | HTML5, CSS3, JS | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)](https://github.com/MahmoudEsawi/TechBattle26) |
-| **🏛️ CS TTU Jordan IEEE** | IEEE Computer Society website for TTU Jordan branch | HTML, CSS, JS | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)](https://github.com/MahmoudEsawi/CS.TTU.JORDAN.IEEE) |
-| **⚙️ The Assemblers** | Full-stack project management and assembly solutions | C#, .NET, Angular | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)](https://github.com/MahmoudEsawi/The-assemblers) |
-| **🏆 IEEE Xtreme Solutions** | Competitive programming solutions repository | C++, Python | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)](https://github.com/MahmoudEsawi/ieeeXtreme) |
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmoudEsawi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF)](https://github.com/MahmoudEsawi)
 
 </div>
 
 ---
 
-## 📈 **GitHub Analytics & Stats**
+## 🏆 **GitHub Trophies**
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudEsawi&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudEsawi&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=ffffff" alt="Top Langs" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MahmoudEsawi&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00D9FF&amp;text_color=ffffff" alt="WakaTime Stats" />
-
-<br><br>
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmoudEsawi&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00D9FF&amp;line=00D9FF&amp;point=00D9FF)](https://github.com/MahmoudEsawi)
-
-<br>
-
-![](https://github-profile-trophy.vercel.app/?username=MahmoudEsawi&amp;theme=aura&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MahmoudEsawi&theme=aura&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -114,7 +133,7 @@ Sleek interfaces using modern design tools.
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=MahmoudEsawi&amp;limit=5&amp;theme=aura_dark&amp;combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=MahmoudEsawi&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -134,8 +153,10 @@ Sleek interfaces using modern design tools.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://linkedin.com/in/Mahmoud-Esawi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:esawi@ieee.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahmoud-Esawi)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esawi@ieee.org)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MahmoudEsawi)
+[![IEEE](https://img.shields.io/badge/IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://www.ieee.org)
 
 </div>
 
@@ -145,10 +166,10 @@ Sleek interfaces using modern design tools.
 
 ### ⚡ **Fun Fact**: I can debug any bug... eventually 🐛→✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=MahmoudEsawi&amp;color=00D9FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=MahmoudEsawi&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=120&amp;section=footer&amp;animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" alt="Footer" />
 </div>
