@@ -2,10 +2,10 @@
 
 #  Hi, I'm Mahmoud Esawi
 
-### 🚀 Full-Stack Engineer | Robotics Hobbyist | Problem Solver
+### 🚀 Full-Stack Engineer | Problem Solver
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=25&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Crafting+seamless+UX+UI;Building+robust+back-end+systems;React+%26+Node.js+Developer;Hardware+%2B+Software+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=25&amp;duration=3000&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Eat.+Sleep.+Code.+Repeat.;From+UI%2FUX+to+Database;Always+learning+new+tech;C%23+%26+.NET+Developer;React+%26+Node.js+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,11 +23,11 @@
 ### 💻 **Full-Stack Development**
 Modern, scalable web applications using cutting-edge technologies.
 
-### 🤖 **Embedded Systems &amp; Robotics**
-Microcontroller programming, sensors, automation.
-
 ### 🌐 **Cloud &amp; APIs**
 Secure RESTful APIs, robust database design, and automated deployment.
+
+### 🎨 **UI/UX Design**
+Sleek interfaces using modern design tools.
 
 </div>
 
@@ -69,13 +69,6 @@ Secure RESTful APIs, robust database design, and automated deployment.
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&amp;logo=firebase&amp;logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&amp;logo=git&amp;logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white)
-
-### **Hardware, Embedded & Other**
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&amp;logo=raspberry-pi&amp;logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white)
 
 </div>
@@ -112,6 +105,26 @@ Secure RESTful APIs, robust database design, and automated deployment.
 <br>
 
 ![](https://github-profile-trophy.vercel.app/?username=MahmoudEsawi&amp;theme=aura&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4)
+
+</div>
+
+---
+
+## 🔝 **Top Contributed Repo**
+
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=MahmoudEsawi&amp;limit=5&amp;theme=aura_dark&amp;combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## 💡 **Dev Quote**
+
+<div align="center">
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 </div>
 
