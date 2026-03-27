@@ -92,7 +92,7 @@ Sleek interfaces using modern design tools.
 
 <div align="center">
 
-### ⚡ **Fun Fact**: I can debug any bug... eventually 🐛→✨
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MahmoudEsawi&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
 
