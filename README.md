@@ -58,15 +58,6 @@ Sleek interfaces using modern design tools.
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmoudEsawi&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=00D9FF)](https://github.com/MahmoudEsawi)
-
-</div>
-
----
 
 ## 💡 **Dev Quote**
 
