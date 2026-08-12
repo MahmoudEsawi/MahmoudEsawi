@@ -16,7 +16,7 @@
 
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahmoudEsawi&theme=tokyonight&hide_border=true&background=0D1117)
+
 
 ### Currently Learning
 <p align="center">
