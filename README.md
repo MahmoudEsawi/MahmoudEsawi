@@ -2,7 +2,9 @@
 
   <a href="https://esawi.dev">
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MahmoudEsawi/Esawi.dev/main/public/avatar-laptop.png" alt="Mahmoud Al-Esawi" width="180" />
+<div align="center">
+  <img src="https://www.esawi.dev/avatar-laptop.png" alt="Mahmoud Al-Esawi" width="180" />
+</div>
 </div>
   </a>
 
