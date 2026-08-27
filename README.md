@@ -96,7 +96,7 @@ Crafting fluid interfaces with **Three.js** WebGL canvases, Framer Motion, and c
   <tr>
     <td width="150" align="center" valign="middle">
       <a href="https://esawi.dev">
-        <img src="https://www.esawi.dev/avatar-sitting.svg" alt="Mahmoud Sitting" width="130" />
+  <img src="https://www.esawi.dev/avatar-laptop.png" alt="Mahmoud Al-Esawi" width="180" />
       </a>
     </td>
     <td valign="middle">
