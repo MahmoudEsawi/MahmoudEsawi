@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://esawi.dev">
-    <img src="https://www.esawi.dev/avatar-half-body.svg" alt="Mahmoud Al-Esawi" width="160" />
+<img src="https://www.esawi.dev/avatar-laptop.svg" alt="Mahmoud Al-Esawi" width="160" />
   </a>
 
   <br />
