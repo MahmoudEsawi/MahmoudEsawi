@@ -1,48 +1,39 @@
 <div align="center">
 
-[![committers.top badge](https://user-badge.committers.top/jordan_private/MahmoudEsawi.svg)](https://user-badge.committers.top/jordan_private/MahmoudEsawi)
+  <a href="https://esawi.dev">
+    <img src="https://www.esawi.dev/avatar-half-body.svg" alt="Mahmoud Al-Esawi" width="160" />
+  </a>
 
-# Hi, I'm Mahmoud Esawi · محمود العيسوي
+  <br />
 
-###             Full-Stack Engineer 
+  [![committers.top badge](https://user-badge.committers.top/jordan_private/MahmoudEsawi.svg)](https://user-badge.committers.top/jordan_private/MahmoudEsawi)
 
-[![Portfolio](https://img.shields.io/badge/esawi.dev-00D9FF?style=flat&logo=vercel&logoColor=white)](https://esawi.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahmoud-Esawi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:esawi@ieee.org)
+  # Mahmoud Al-Esawi · محمود العيسوي
+  ### **Full-Stack Software Engineer • Amman, Jordan**
 
-<br>
+  [![Portfolio](https://img.shields.io/badge/esawi.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://esawi.dev)
+  [![Developer Diary](https://img.shields.io/badge/Developer--Diary-18181b?style=for-the-badge&logo=notion&logoColor=white)](https://esawi.dev/diary)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahmoud-Esawi)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esawi@ieee.org)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Eat.+Sleep.+Code.+Repeat.;ASP.NET+Core+%26+.NET+Developer;React+%26+Next.js+Developer;Open+for+new+opportunities;Top+10+GitHub+User+in+Jordan)](https://git.io/typing-svg)
+  <br />
 
-<br>
-
-
-
-### Currently Learning
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" />
-</p>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Building+scalable+cloud+%26+web+systems.;ASP.NET+Core+%26+.NET+9+Architecture;React+%26+Next.js+16+Interfaces;Top+10+GitHub+Engineer+in+Jordan;Open+for+Full-Stack+opportunities)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-
-
 ## What I Do
 
-<div align="center">
+### Full-Stack & System Architecture
+Architecting high-performance web applications with clean separation of concerns using **ASP.NET Core (.NET 9)**, **TypeScript**, and **Next.js 16**.
 
-### Full-Stack Engineering
-Architecting high-performance web applications across ASP.NET Core and MERN/Next.js stacks.
+### Cloud & Distributed Services
+Designing secure RESTful APIs, high-throughput database layers, and deploying resilient cloud workloads on **Microsoft Azure**.
 
-### Cloud & Backend Solutions
-Designing secure REST APIs, scalable database architectures, and deploying cloud services.
-
-### Interactive Frontend Design
-Creating responsive, engaging interfaces with modern UI frameworks and interactive 3D components.
-
-</div>
+### 3D & Interactive Frontends
+Crafting fluid interfaces with **Three.js** WebGL canvases, Framer Motion, and custom design systems.
 
 ---
 
@@ -51,39 +42,79 @@ Creating responsive, engaging interfaces with modern UI frameworks and interacti
 <div align="center">
 
 ### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,py,cpp" />
+<p>
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_9-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,tailwind,threejs" />
+### Frontend & 3D
+<p>
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ### Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,fastapi" />
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
-### Cloud & Tools
-<img src="https://skillicons.dev/icons?i=azure,docker,git,githubactions,vercel,netlify,postman,figma" />
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-
 ## Let's Connect
 
+<table>
+  <tr>
+    <td width="150" align="center" valign="middle">
+      <a href="https://esawi.dev">
+        <img src="https://www.esawi.dev/avatar-sitting.svg" alt="Mahmoud Sitting" width="130" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h3>Open for new opportunities</h3>
+      <p>Exploring full-stack engineering roles (Amman or Remote). Feel free to reach out:</p>
+      <a href="https://esawi.dev"><img src="https://img.shields.io/badge/Live_Portfolio-esawi.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+      <a href="https://esawi.dev/diary"><img src="https://img.shields.io/badge/Developer_Diary-18181b?style=for-the-badge&logo=notion&logoColor=white" /></a>
+      <a href="https://linkedin.com/in/Mahmoud-Esawi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <a href="mailto:esawi@ieee.org"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-esawi.dev-00D9FF?style=flat&logo=vercel&logoColor=white)](https://esawi.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mahmoud-Esawi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:esawi@ieee.org)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MahmoudEsawi)
+  ![Profile Views](https://komarev.com/ghpvc/?username=MahmoudEsawi&color=000000&style=flat-square&label=PROFILE+VIEWS)
 
-</div>
+  <br />
 
-
-<div align="center">
-
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=MahmoudEsawi&color=00D9FF&style=flat-square&label=PROFILE+VIEWS)
+  <sub>Crafted with care by <b>Mahmoud Al-Esawi</b> • <a href="https://esawi.dev">esawi.dev</a></sub>
 
 </div>
