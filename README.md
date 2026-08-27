@@ -3,7 +3,6 @@
   <a href="https://esawi.dev">
 <div align="center">
 <div align="center">
-  <img src="https://www.esawi.dev/avatar-laptop.png" alt="Mahmoud Al-Esawi" width="180" />
 </div>
 </div>
   </a>
