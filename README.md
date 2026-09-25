@@ -10,6 +10,8 @@
   <br />
 
   [![committers.top badge](https://user-badge.committers.top/jordan_private/MahmoudEsawi.svg)](https://user-badge.committers.top/jordan_private/MahmoudEsawi)
+[![committers.top badge](https://user-badge.committers.top/jordan/MahmoudEsawi.svg)](https://user-badge.committers.top/jordan/MahmoudEsawi)
+[![committers.top badge](https://user-badge.committers.top/jordan_public/MahmoudEsawi.svg)](https://user-badge.committers.top/jordan_public/MahmoudEsawi)
 
   # Mahmoud Al-Esawi · محمود العيسوي
   ### **Full-Stack Software Engineer • Amman, Jordan**
