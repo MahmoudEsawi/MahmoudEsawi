@@ -1,6 +1,7 @@
 <div align="center">
 
   <a href="https://esawi.dev">
+    <img src="https://www.esawi.dev/avatar-laptop.png" alt="Mahmoud Al-Esawi" width="160" />
   </a>
 
   <br /><br />
@@ -28,16 +29,16 @@
 
 ## What I Do
 
-### 🤖 AI Engineering & LLM Systems
+### AI Engineering & LLM Systems
 Evaluating and fine-tuning frontier language models at **MenaDevs**. Driving RLHF and SFT evaluation pipelines across coding, complex reasoning, Arabic NLP, and repository-level GitHub task benchmarks with rigorous QA on factual grounding and logic.
 
-### 🌐 Full-Stack Web Development
+### Full-Stack Web Development
 Architecting high-performance web applications with clean separation of concerns using **ASP.NET Core (.NET 9)**, **Node.js / Express**, **Django**, and **Next.js 16** with **TypeScript**.
 
-### 🛠️ Backend Systems & APIs
+### Backend Systems & APIs
 Designing secure RESTful endpoints, robust database schemas, and microservices with automated CI/CD deployment pipelines using **Docker**, **MongoDB**, **PostgreSQL**, and **SQL Server**.
 
-### ✨ 3D & Interactive Frontends
+### 3D & Interactive Frontends
 Crafting fluid, responsive web interfaces with **Three.js** WebGL shaders, Framer Motion transitions, bilingual RTL Arabic UI engines, and custom design systems.
 
 ---
@@ -105,7 +106,7 @@ Crafting fluid, responsive web interfaces with **Three.js** WebGL shaders, Frame
 ## Featured Certifications
 
 - **IBM Full Stack Software Developer Professional Certificate** (15 Courses, 225 hrs) — [Credly Verified](https://www.credly.com/badges/fa84df1d-c990-4d87-b1b3-7df89f4f89a4/public_url) • [Coursera](https://coursera.org/share/4fd98c9b91ce5bef227251c5f42e911b)
-- **Google: Start Writing Prompts like a Pro** — Prompt Engineering & LLM Interaction
+- **AWS Certified AI Practitioner** 
 - **Full Stack Web Development (ASP.NET Core & Angular)** — Princess Sumaya University for Technology (100 hrs)
 
 ---
@@ -116,7 +117,7 @@ Crafting fluid, responsive web interfaces with **Three.js** WebGL shaders, Frame
   <tr>
     <td width="150" align="center" valign="middle">
       <a href="https://esawi.dev">
-        <img src="https://www.esawi.dev/avatar.svg" alt="Mahmoud Al-Esawi" width="130" />
+        <img src="https://www.esawi.dev/avatar-laptop.png" alt="Mahmoud Al-Esawi" width="180" />
       </a>
     </td>
     <td valign="middle">
