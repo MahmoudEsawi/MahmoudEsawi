@@ -121,7 +121,6 @@ Crafting fluid, responsive web interfaces with **Three.js** WebGL shaders, Frame
     </td>
     <td valign="middle">
       <h3>Feel free to reach out</h3>
-      <p>Feel free to reach out anytime:</p>
       <a href="https://esawi.dev"><img src="https://img.shields.io/badge/Live_Portfolio-esawi.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
       <a href="https://esawi.dev/diary"><img src="https://img.shields.io/badge/Developer_Diary-18181b?style=for-the-badge&logo=notion&logoColor=white" /></a>
       <a href="https://linkedin.com/in/Mahmoud-Esawi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
