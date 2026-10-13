@@ -51,7 +51,7 @@ Crafting fluid, responsive web interfaces with **Three.js** WebGL shaders, Frame
   <img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/RLHF_%26_SFT-000000?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM_Evaluation-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-000000?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_AWS-000000?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
